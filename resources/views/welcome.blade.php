@@ -85,7 +85,7 @@
             @endif
 
             <div class="content">
-                <img src="{{asset('images/parking.jpg')}}" width="300">
+                {{-- <img src="{{asset('images/parking.jpg')}}" width="300"> --}}
                 <div class="title m-b-md">
                     Parqueadero 4 Ruedas
                 </div>
@@ -95,6 +95,7 @@
                 <div class="links">
                     <a href="https://guillermoagudeloga" target="_blank"><i class="fa fa-file"></i> Currículo</a>
                     <a href="mailto:guille.agudelo@gmail.com" target="_blank"><i class="fa fa-envelope"></i> Email</a>
+                    <a href="https://github.com/guillermo7227/parqueadero" target="_blank"><i class="fa fa-code"></i> Repositorio</a>
                 </div>
             </div>
         </div>
